@@ -22,6 +22,8 @@ html {
     scroll-behavior: smooth;
     background-color: $bkgd;
 
+    overflow-x: hidden;
+
     body {
         background-color: $bkgd;
 
